@@ -51,6 +51,6 @@ Este tutorial visa oferecer uma abordagem prática e simples para a implementaç
 
 ### Preview
 
-<img align="center" alt="React and React Native" src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assetsAzureAD-sso-auth2FA-Vuejs.gif"/>
+<img align="center" alt="React and React Native" src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/AzureAD-sso-auth2FA-Vuejs.gif"/>
 
 
